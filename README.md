@@ -20,4 +20,4 @@ This project is a Java-based ATM Interface developed as part of the CodSoft Java
 - BankAccount.java
 
 ## Author
-Harshika Manda
+Harshika Mandha
